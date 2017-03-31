@@ -10,6 +10,16 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBAction func createMonsterBtnPressed(_ sender: Any) {
+    }
+    
+    
+    @IBAction func searchMonsterBtnPressed(_ sender: Any) {
+    }
+    
+    
+    @IBAction func viewMonsterBtnPressed(_ sender: Any) {
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
